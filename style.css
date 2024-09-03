@@ -1,0 +1,25 @@
+input{
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+form{
+    text-align: center;
+    background-color: black;
+    width: 600px;
+    border-radius: 30px;
+}
+label{
+    color: yellow;
+    font-size: 20px;
+}
+.knopka{
+    width: 200px;
+    height: 60px;
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    border-radius: 40px;
+}
